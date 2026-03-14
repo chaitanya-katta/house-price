@@ -1,0 +1,8 @@
+programming language - python
+
+#python libraies
+numpy
+pandas 
+scikit learn
+streamlit
+pickle
